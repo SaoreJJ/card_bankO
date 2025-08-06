@@ -32,4 +32,4 @@ def sort_by_date(transactions: list[dict], reverse: bool = True) -> list[dict]:
 
 #print(sort_by_date(data))
 
-#print(sort_by_date(data, reverse=False))
+#print(sort_by_date(data, reverse=False)
